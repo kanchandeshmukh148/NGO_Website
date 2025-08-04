@@ -1,0 +1,16 @@
+.hero-section {
+  position: relative;
+}
+
+.hero-section img {
+  height: 400px;
+  object-fit: cover;
+  opacity: 0.85;
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
